@@ -1,4 +1,4 @@
-#Projeto do curso Python 3 Parte 2 da Alura
+# Projeto do curso Python 3 Parte 2 da Alura
 
 Projeto das aulas que realizei do curso de Python 3 Parte 2 na plataforma Alura.
 O projeto são dois jogos para aprendizado da sintaxe e conceitos básicos de programação.
